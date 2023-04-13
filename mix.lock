@@ -1,0 +1,4 @@
+%{
+  "jsonlog": {:git, "https://github.com/tsloughter/jsonlog.git", "2486afc6e3a4fbcab58f31de9fdb419aac54b36e", []},
+  "syslog": {:git, "https://github.com/schlagert/syslog.git", "13701089496d1e71a240d2cbf281e7dd9b4695c0", []},
+}
